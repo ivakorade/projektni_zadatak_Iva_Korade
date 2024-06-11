@@ -1,0 +1,18 @@
+body {
+    background-image: url("multimedijski_sadrzaj/pozadina.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+h2 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h3 {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+footer {
+   color: aliceblue;
+}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
