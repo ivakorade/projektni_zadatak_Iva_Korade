@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "moj_font";
+    src: url(moj_font/IvaKorade.ttf);
+}
+h1 {
+    font-family: "moj_font";
+}
