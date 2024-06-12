@@ -1,5 +1,8 @@
 body {
     background-image: url("multimedijski_sadrzaj/pozadina.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 h2 {
